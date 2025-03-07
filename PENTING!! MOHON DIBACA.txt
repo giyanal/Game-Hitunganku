@@ -1,0 +1,20 @@
+SETELAH MENYELESAIKAN PERMAINAN DIMOHON UNTUK MENGISI KUISIONER
+TUGAS AKHIR PENERAPAN KECERDASAN BUATAN PADA GAME HITUNGANKU MENGGUNAKAN ALGORITMA A* PATHFINDING
+-------------------------------------------------------------------------------------------------------
+untuk linknya ada di bawah ini:
+https://forms.gle/uyuWxBijMTJagfXBA
+
+TERIMA KASIH TELAH MENJADI BETA TESTER :)
+SEMOGA HARI HARIMU DIBERI KEMUDAHAN DAN KELANCARAN REZEKI DARI YANG MAHA KUASA
+-------------------------------------------------------------------------------------------------------
+SALAM,
+SAGAPRO .CO
+
+
+Update Patch V 1.2
+-------------------------------------------------------------------------------------------------------
+-Menampilkan jumlah kunci yang belum di didapatkan
+-Menampilkan jumlah darah yang belum di didapatkan
+-Perubahan soal
+-Pembahasan menggunakan video
+-NPC lebih optimal
